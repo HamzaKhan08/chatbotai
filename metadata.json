@@ -1,0 +1,6 @@
+{
+  "name": "AetherChat AI",
+  "description": "Sleek, responsive, and feature-rich AI chatbot dashboard and floating widget powered by Gemini, enabling image analysis, custom AI personalities, and voice text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
